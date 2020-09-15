@@ -1,1 +1,1 @@
-# https://Dronchiklolka.github.io/rsschool-cv/cv
+# https://Dronchiklolka.github.io/rsschool-cv
