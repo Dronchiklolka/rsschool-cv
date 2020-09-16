@@ -7,4 +7,4 @@ Contact with me:
 let hello = 'Hello,World';
 allert(hello); 
 ```
-Pre-Intermediate english level.
+Pre-Intermediate(A2-B1) english level.
