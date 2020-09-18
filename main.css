@@ -13,13 +13,28 @@ section{
 }
 
 a{
-    padding: 5px 5px;
+    padding: 5px 30px;
     text-decoration: none;
     color: rgb(255, 0, 234);
 }
 
+p{
+    font-size: 18px;
+}
+
 .span__blue{
     color: #000fff;
+}
+
+.span__strong{
+    color: #000;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: underline;
+    
+}
+code{
+    font-family: monospace, 'Roboto' ,sans-serif;
 }
 @media(max-width:630px){
     section{
