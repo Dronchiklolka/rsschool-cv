@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+main{
+    text-align: center;
+}
+
+section{
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+a{
+    padding: 5px 30px;
+    text-decoration: none;
+    color: rgb(255, 0, 234);
+}
+
+p{
+    font-size: 18px;
+}
+
+.span__blue{
+    color: #000fff;
+}
+
+.span__strong{
+    color: #000;
+    font-weight: 700;
+    font-size: 18px;
+    text-decoration: underline;
+    
+}
+code{
+    font-family: monospace, 'Roboto' ,sans-serif;
+}
+@media(max-width:630px){
+    section{
+        width:100%;
+        text-align: center;
+    }
+}
