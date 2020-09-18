@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+main{
+    text-align: center;
+}
+
+section{
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+a{
+    padding: 5px 5px;
+    text-decoration: none;
+    color: rgb(255, 0, 234);
+}
+
+.span__blue{
+    color: #000fff;
+}
+@media(max-width:630px){
+    section{
+        width:100%;
+        text-align: center;
+    }
+}
